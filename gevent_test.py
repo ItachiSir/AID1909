@@ -25,3 +25,4 @@ f = gevent.spawn(foo, 1, 2)
 b = gevent.spawn(bar)
 gevent.joinall([f, b])  # 阻塞等待f,b两个函数执行完毕
 print('over')
+print("方案一执行的代码")

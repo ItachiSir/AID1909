@@ -8,3 +8,4 @@ forever
 
 ###Tom也修改了readme.md
 
+##这是方案一写的编码
