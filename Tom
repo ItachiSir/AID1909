@@ -1,1 +1,3 @@
-Tom 分支
+Tom 分支使用
+class Tom:
+  pass
