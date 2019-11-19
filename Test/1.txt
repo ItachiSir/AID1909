@@ -1,0 +1,7 @@
+1.用户名小写levi
+sudo
+
+3.配置新用户的sudo权限    方法见笔记
+删除用户：
+    1.sudo deluser --remove-home levi
+    2.使用sudo vipw 删除对应的注册文件    方法见笔记
