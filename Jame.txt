@@ -1,2 +1,4 @@
 def fun():
     print("Jame 做了很多工作")
+
+print("远程修改JAME")
